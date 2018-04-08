@@ -1,21 +1,88 @@
 [
   {
+    "name": "Play",
+    "description": "Play RSG Chess in your browser.",
+    "category": "Play",
+    "link": "/play"
+  },
+  {
+    "name": "Download",
+    "description": "Download RSG Chess installers for differnet platforms.",
+    "category": "Download",
+    "link": "/download"
+  },
+  {
+    "name": "FAQs",
+    "description": "Frequently asked questions about RSG Chess and Chess API.",
+    "category": "FAQs",
+    "link": "/faqs"
+  },
+  {
+    "name": "RSG Chess core docs",
+    "description": "Intro to RSG Chess - rules, docs, tutorials & community.",
+    "category": "Game docs",
+    "link": "/docs/core"
+  },
+  {
+    "name": "RSG Chess desktop docs",
+    "description": "Intro to RSG Chess desktop.",
+    "category": "Game docs",
+    "link": "/docs/desktop"
+  },
+  {
+    "name": "RSG Chess mobile docs",
+    "description": "Intro to RSG Chess mobile.",
+    "category": "Game docs",
+    "link": "/docs/mobile"
+  },
+  {
+    "name": "Color palettes",
+    "description": "How to cahnge the board color palettes.",
+    "category": "Game docs",
+    "link": "/docs/mobile/palettes"
+  },
+  {
+    "name": "Mobile test programs",
+    "description": "Join and contribute to our mobile testing programs.",
+    "category": "Game docs",
+    "link": "/docs/mobile/test"
+  },
+  {
     "name": "RSG Chess API docs",
     "description": "Intro to the RSG Chess API.",
-    "keyword": "API docs",
+    "category": "API docs",
     "link": "/docs/api"
   },
   {
     "name": "RSG Chess API installation",
     "description": "How to install and set-up our API.",
-    "keyword": "API docs",
+    "category": "API docs",
     "link": "/docs/api/install"
   },
   {
     "name": "RSG Chess API CDN",
     "description":
       "How to import our CDNs to use RSG Chess API with browser level JavaScript.",
-    "keyword": "API docs",
+    "category": "API docs",
     "link": "/docs/api/cdn"
+  },
+  {
+    "name": "Game set-up - RSG Chess API",
+    "description":
+      "Guide how to set up a game configuration, make chess board and place the pieces.",
+    "category": "API docs",
+    "link": "/docs/api/game-setup"
+  },
+  {
+    "name": "new Game() - RSG Chess API",
+    "description": "How to use the `new Game()` constructor",
+    "category": "API docs",
+    "link": "/docs/api/game"
+  },
+  {
+    "name": "game.piece - RSG Chess API",
+    "description": "How to use the `game.piece` method",
+    "category": "API docs",
+    "link": "/docs/api/game.piece"
   }
 ]

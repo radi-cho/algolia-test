@@ -1,5 +1,4 @@
 import React from "react";
-import ReactDOM from "react-dom";
 import { InstantSearch } from "react-instantsearch/dom";
 import Search from "./Search";
 

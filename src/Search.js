@@ -1,8 +1,6 @@
 // First, we need to add the Hits component to our import
 import React from "react";
 import {
-  InstantSearch,
-  Hits,
   SearchBox,
   Pagination,
   HitsPerPage
@@ -26,7 +24,7 @@ const CustomHits = connectHits(({ hits }) => {
             <div>{hit.name}</div>
           </a>
           <div>{hit.description}</div>
-          <div>{hit.keyword}</div>
+          <div>{hit.category}</div>
           <br />
         </div>
       ))}
